@@ -1,0 +1,8 @@
+*.json
+*.pdf
+*.docx
+*.png
+*.csv
+/00-1. sample_raw
+/myvenv
+
